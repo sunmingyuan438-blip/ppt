@@ -1,0 +1,1 @@
+{"extends":"./tsconfig.json","compilerOptions":{"module":"NodeNext","moduleResolution":"NodeNext","noEmit":false,"outDir":"dist/server","declaration":false,"types":["node"]},"include":["server","config"]}
